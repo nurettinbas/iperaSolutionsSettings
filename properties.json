@@ -1,0 +1,323 @@
+{
+    "data": [
+        {
+            "group_name": "CallbackEngine",
+            "type": "2",
+            "value": "300",
+            "key": "AggregateBackwardInsertDuration"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "2",
+            "value": "5",
+            "key": "AggregateWaitingTime"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "2",
+            "value": "30",
+            "key": "AggregateWorkRange"
+        },
+        {
+            "group_name": "contact-report",
+            "type": "0",
+            "value": "120",
+            "key": "ContactBlockSize"
+        },
+        {
+            "group_name": "contact-report",
+            "type": "0",
+            "value": "2019-09-18 13:18:27",
+            "key": "ContactLastRunTime"
+        },
+        {
+            "group_name": "contact-report",
+            "type": "0",
+            "value": "1",
+            "key": "ContactReportDebugMode"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "2",
+            "value": "70",
+            "key": "ContactReportMinCalRange"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "2",
+            "value": "480",
+            "key": "ContactReportTimeout"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "2",
+            "value": "30",
+            "key": "ContactRetrospectiveControlTime"
+        },
+        {
+            "group_name": "DashboardEngine ilk çalışmadan ne kadar gün gerideen gelerek çalışacak.",
+            "type": "0",
+            "value": "1",
+            "key": "DashboardEngineStartRange"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "8",
+            "value": "19:00",
+            "key": "ENDWORKHOUR"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "5",
+            "value": "697110,697106",
+            "key": "ExcludedCallbackPBXs"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "2",
+            "value": "3",
+            "key": "FraudRingTime"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "6",
+            "value": "1",
+            "key": "IncludeGroupCalls"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "0",
+            "value": "Oct  7 2019 12:00AM",
+            "key": "LastCompanyContactReportControlTime"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "0",
+            "value": "Oct  7 2019 12:00AM",
+            "key": "LastCompanyContactReportRunTime"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "0",
+            "value": "2019-10-17 11:06:10.5772118",
+            "key": "LastDepartmentContactReportControlTime"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "0",
+            "value": "2019-10-17 10:40:36",
+            "key": "LastDepartmentContactReportRunTime"
+        },
+        {
+            "group_name": "contact-report",
+            "type": "0",
+            "value": "Oct  7 2019 12:00AM",
+            "key": "LastInternalCompanyContactReportControlTime"
+        },
+        {
+            "group_name": "contact-report",
+            "type": "0",
+            "value": "Oct  7 2019 12:00AM",
+            "key": "LastInternalCompanyContactReportRunTime"
+        },
+        {
+            "group_name": "contact-report",
+            "type": "0",
+            "value": "2019-10-17 11:06:10.5781879",
+            "key": "LastInternalDepartmentContactReportControlTime"
+        },
+        {
+            "group_name": "contact-report",
+            "type": "0",
+            "value": "2019-10-17 10:40:36",
+            "key": "LastInternalDepartmentContactReportRunTime"
+        },
+        {
+            "group_name": "contact-report",
+            "type": "0",
+            "value": "2019-10-17 11:05:45.1229334",
+            "key": "LastInternalPersonalContactReportControlTime"
+        },
+        {
+            "group_name": "contact-report",
+            "type": "0",
+            "value": "2019-10-17 11:04:18",
+            "key": "LastInternalPersonalContactReportRunTime"
+        },
+        {
+            "group_name": "contact-report",
+            "type": "0",
+            "value": "Oct  7 2019 12:00AM",
+            "key": "LastInternalSiteContactReportControlTime"
+        },
+        {
+            "group_name": "contact-report",
+            "type": "0",
+            "value": "Oct  7 2019 12:00AM",
+            "key": "LastInternalSiteContactReportRunTime"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "0",
+            "value": "2019-10-17 11:05:45.1219557",
+            "key": "LastPersonalContactReportControlTime"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "0",
+            "value": "2019-10-17 11:04:18",
+            "key": "LastPersonalContactReportRunTime"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "0",
+            "value": "Oct  7 2019 12:00AM",
+            "key": "LastSiteContactReportControlTime"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "0",
+            "value": "Oct  7 2019 12:00AM",
+            "key": "LastSiteContactReportRunTime"
+        },
+        {
+            "group_name": "CdrParser",
+            "type": "2",
+            "value": "0",
+            "key": "MaxCallDurationMin"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "2",
+            "value": "3",
+            "key": "MinimumMissedDuration"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "0",
+            "value": "Oct 17 2019 10:24AM",
+            "key": "OldestAggregateWorkTime"
+        },
+        {
+            "group_name": "EmailSettings",
+            "type": "3",
+            "value": "iperasmtptest@gmail.com",
+            "key": "SmtpFrom"
+        },
+        {
+            "group_name": "EmailSettings",
+            "type": "1",
+            "value": "smtp.gmail.com",
+            "key": "SmtpHost"
+        },
+        {
+            "group_name": "EmailSettings",
+            "type": "4",
+            "value": "IPera360",
+            "key": "SmtpPass"
+        },
+        {
+            "group_name": "EmailSettings",
+            "type": "2",
+            "value": "465",
+            "key": "SmtpPort"
+        },
+        {
+            "group_name": "EmailSettings",
+            "type": "2",
+            "value": "5",
+            "key": "SmtpSendInterval"
+        },
+        {
+            "group_name": "EmailSettings",
+            "type": "6",
+            "value": "1",
+            "key": "SmtpUseAuthorization"
+        },
+        {
+            "group_name": "EmailSettings",
+            "type": "3",
+            "value": "iperasmtptest@gmail.com",
+            "key": "SmtpUser"
+        },
+        {
+            "group_name": "EmailSettings",
+            "type": "6",
+            "value": "1",
+            "key": "SmtpUseSsl"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "8",
+            "value": "09:00",
+            "key": "STARTWORKHOUR"
+        },
+        {
+            "group_name": "CdrParser",
+            "type": "2",
+            "value": "3",
+            "key": "TelnoAreaCodeLen"
+        },
+        {
+            "group_name": "CdrParser",
+            "type": "2",
+            "value": "7",
+            "key": "TelnoLocalMaxLen"
+        },
+        {
+            "group_name": "CdrParser",
+            "type": "2",
+            "value": "7",
+            "key": "TelnoLocalMinLen"
+        },
+        {
+            "group_name": "CdrParser",
+            "type": "2",
+            "value": "1",
+            "key": "TelnoPrefixLen"
+        },
+        {
+            "group_name": "UserBossSyncHour",
+            "type": "0",
+            "value": "6",
+            "key": "UserBossSyncHour"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "6",
+            "value": "0",
+            "key": "WillAggregateWorkForCompany"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "6",
+            "value": "1",
+            "key": "WillAggregateWorkForDepartment"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "6",
+            "value": "1",
+            "key": "WillAggregateWorkForPerson"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "6",
+            "value": "1",
+            "key": "WillAggregateWorkForPersonal"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "6",
+            "value": "0",
+            "key": "WillAggregateWorkForSite"
+        },
+        {
+            "group_name": "CallbackEngine",
+            "type": "7",
+            "value": "1,2,3,4,5",
+            "key": "WORKDAYS"
+        }
+    ],
+    "status": 200
+}
